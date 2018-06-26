@@ -1,2 +1,3 @@
-# 99-Python-Exercises-to-Boost-your-Python-Skills-with-solution
-Python exercise ranging from beginner level to experienced also includes solution of all 99 questions to compare your answers with our.
+# 99 Python Exercises
+![alt text](https://github.com/Zeeshanahmad4/99-Python-Exercises-to-Boost-your-Python-Skills/blob/master/Cover.jpg)
+
